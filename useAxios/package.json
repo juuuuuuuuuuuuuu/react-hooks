@@ -1,0 +1,28 @@
+{
+  "name": "@jooks/react-hooks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juuuuuuuuuuuuuu/react-hooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "javascript"
+  ],
+  "author": "ju young, lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juuuuuuuuuuuuuu/react-hooks/issues"
+  },
+  "homepage": "https://github.com/juuuuuuuuuuuuuu/react-hooks#readme",
+  "peerDependencies": {
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
+}
